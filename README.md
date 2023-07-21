@@ -24,5 +24,6 @@
 
 ### • Contato: 
 ### Email: brunofelimarti@gmail.com
+### Linkedin: https://bit.ly/3OojDRP
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bruno-feliciano-martins-863137239)
 
