@@ -2,7 +2,7 @@
 
 
 
-![Brunofell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunofell&show_icons=true&theme=merko)
+
 
 
 ### • Linguagens de programação: 
