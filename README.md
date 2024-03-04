@@ -2,12 +2,9 @@
 
 <h2 align="center" > Gosto muito de tecnologia e atualmente estudo na Pontíficia Universidade Católica do Paraná (PUCPR) o curso de Sistemas de informação 🌎</h2> 
 
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunofell&hide_progress=true)
-</p>
-<p style="text-align: center;">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunofell&hide_progress=true)
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofell&hide_progress=true" alt="Top Langs">
+</div>
 
 
 
