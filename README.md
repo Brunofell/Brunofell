@@ -9,8 +9,8 @@
 
 
 <p align="center"> 
-### • Contato: 
-### Email: brunofelimarti@gmail.com
-### Linkedin: https://bit.ly/3OojDRP
-### Apresentação: https://apresentacao-three-alpha.vercel.app/
+  <p>CONTATO: </p>
+  <p>Email: brunofelimarti@gmail.com</p>
+  <p>Linkedin: https://bit.ly/3OojDRP</p>
+  <p>Portifólio: https://apresentacao-three-alpha.vercel.app/</p>
 </p>
