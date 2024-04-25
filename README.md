@@ -1,16 +1,14 @@
-<h1 align="center" >Oi! eu sou o Bruno Feliciano 👨‍💻</h1>
+<h1 align="center">Hi there! I'm Bruno Feliciano 👨‍💻</h1>
 
-<h2 align="center" > Gosto muito de tecnologia e atualmente estudo na Pontíficia Universidade Católica do Paraná (PUCPR) o curso de Sistemas de informação 🌎</h2> 
+<h2 align="center">I'm passionate about technology and currently pursuing a degree in Information Systems at the Pontifical Catholic University of Paraná (PUCPR) 🌎</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofell&hide_progress=true" alt="Top Langs">
 </div>
 
-
-
 <p align="center"> 
-  <p>CONTATO: </p>
+  <p>CONTACT:</p>
   <p>Email: brunofelimarti@gmail.com</p>
-  <p>Linkedin: https://bit.ly/3OojDRP</p>
-  <p>Portifólio: https://apresentacao-three-alpha.vercel.app/</p>
+  <p>LinkedIn: https://bit.ly/3OojDRP</p>
+  <p>Portfolio: https://apresentacao-three-alpha.vercel.app/</p>
 </p>
