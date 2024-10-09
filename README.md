@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <p>CONTACT:</p>
-  <p>Email: brunofelimarti@gmail.com</p>
+  <p>Email: brunofelicianom@gmail.com</p>
   <p>LinkedIn: https://bit.ly/3OojDRP</p>
   <p>Portfolio: https://apresentacao-three-alpha.vercel.app/</p>
 </p>
