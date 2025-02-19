@@ -19,6 +19,5 @@
 <p align="center"> 
   <p>CONTACT:</p>
   <p>Email: brunofelicianom@gmail.com</p>
-  <p>LinkedIn: https://bit.ly/3OojDRP</p>
-  <p>Portfolio: https://apresentacao-three-alpha.vercel.app/</p>
+  <p>Linkedin: [https://bit.ly/3OojDRP](https://www.linkedin.com/in/bruno-feliciano-863137239/)</p>
 </p>
