@@ -19,5 +19,5 @@
 <p align="center"> 
   <p>CONTACT:</p>
   <p>Email: brunofelicianom@gmail.com</p>
-  <p>Linkedin: [https://bit.ly/3OojDRP](https://www.linkedin.com/in/bruno-feliciano-863137239/)</p>
+  <p>Linkedin: https://www.linkedin.com/in/bruno-feliciano-863137239/ </p>
 </p>
