@@ -54,7 +54,6 @@ Passionate Backend Developer solving complex problems with clean and efficient c
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofell&hide_progress=true&theme=tokyonight" alt="Top Langs">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunofell&theme=tokyonight" alt="GitHub Streak">
 </div>
 
 <!--## 📌 Featured Projects 
