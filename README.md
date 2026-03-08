@@ -52,14 +52,6 @@ I’m fluent in Portuguese and English, with working knowledge of Spanish, and I
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofell&hide_progress=true&theme=tokyonight" alt="Top Langs">
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=brunofell&color=blue" alt="Profile views" />
   <p>🔭 Currently building projects that connect software development and data engineering.</p>
